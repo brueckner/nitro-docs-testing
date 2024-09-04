@@ -24,6 +24,9 @@ packages/@vuepress/shared-utils/types/
 # Local preview builds
 __preview
 _build_txt
+dist/*
+build/*
+
 
 # rst backup files
 *.rst~

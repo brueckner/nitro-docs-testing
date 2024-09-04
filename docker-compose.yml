@@ -1,0 +1,7 @@
+services:
+  sphinx:
+    image: docker.io/nitrokey/sphinx
+    build: ./sphinx
+    volumes:
+      - ./docs:/docs
+    command: make html -a -D language='de' . dist

@@ -53,6 +53,46 @@
 ## Commits (preventing merge conflicts)
 Before pushing your changes to the Github repository, commit often and test the result locally by building a preview with Sphinx (see below). Only push your changes upstream when you are sure you will not touch it for the next hour. If content is pushed twice within an hour, merge conflicts may occur on the Weblate server that need to be solved manually (see below). If it's necessary to edit and push content within an hour, you have to wait until Weblate translated the new content. Then push the commit button in Weblate's web interface (https://translate.nitrokey.com/projects/nitrokey-documentation/#repository) and pull locally on your device. Only then you can push upstream again and avoid merge conflict.
 
+## Local Setup (WIP)
+
+Build docker image based on Dockerfile
+```bash
+sh ./build-container-image.sh
+```
+
+Build the docs (incrementally)
+```bash
+sh ./build-docs.sh
+```
+
+Build the docs (incrementally) for a specific language
+```bash
+sh ./build-docs.sh de
+```
+
+Trigger a full build
+```bash
+sh ./build-docs.sh --full
+```
+
+Trigger a full build for a specific language
+```bash
+sh ./build-docs.sh de --full
+```
+
+Purge build files and trigger a full build
+```bash
+sh ./build-docs.sh --rebuild --full
+```
+
+### Local webserver for testing
+
+Spin up nginx with docker to service the static files
+```bash
+sh ./serve-docs.sh
+```
+
+Access the docs via http://localhost:8080/LANG
 
 ## Local Preview
 

@@ -2,6 +2,7 @@
 
 # Load Variables
 source variables.sh
+source environment.sh
 
 # provide access token from https://translate.nitrokey.com/accounts/profile/#api
 token=$1

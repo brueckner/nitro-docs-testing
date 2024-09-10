@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Load Variables
-source config.sh
+source variables.sh
 
 # provide access token from https://translate.nitrokey.com/accounts/profile/#api
 token=$1
@@ -32,7 +32,7 @@ do
 		}' \
 		-H "Content-Type: application/json" \
 		-H "Authorization: Token $token" \
-		https://translate.nitrokey.com/api/translations/nitrokey-documentation/$component/$lang/autotranslate/
+		"$weblate_api/translations/nitrokey-documentation/$component/$lang/autotranslate/"
 		echo -e "\n$(date) done"
 	done
 	echo -e "\n$(date) Language $lang passed"

@@ -33,3 +33,6 @@ build/*
 
 # Python virtual environment
 venv
+
+environment.sh
+!environment.sh.example

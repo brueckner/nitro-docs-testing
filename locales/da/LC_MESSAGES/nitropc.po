@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Nitrokey Documentation\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-13 22:26+0100\n"
-"PO-Revision-Date: 2022-01-11 15:11+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-09-10 15:59+0000\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Language-Team: Danish <http://localhost/projects/nitrokey-documentation/"
+"documentation-nitropc/da/>\n"
 "Language: da\n"
-"Language-Team: Danish <https://translate.nitrokey.com/projects/nitrokey-"
-"documentation/documentation-nitropc/da/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.1\n"
 "Generated-By: Babel 2.12.1\n"
 
 #: ../nitropc/debian/index.rst:2
@@ -131,11 +132,12 @@ msgstr ""
 "USB Boot i menuen Heads."
 
 #: ../nitropc/os-reinstallation.rst:34
-#, fuzzy
 msgid ""
 "Depending on the operating system you may need to confirm its "
 "reinstallation."
-msgstr "Afhængigt af styresystemet skal du muligvis bekræfte geninstallationen."
+msgstr ""
+"TEST2 Afhængigt af operativsystemet kan det være nødvendigt at bekræfte "
+"geninstallationen."
 
 #: ../nitropc/os-reinstallation.rst:37
 msgid "`Sign the boot partition. <system-update.html>`_"
@@ -450,4 +452,3 @@ msgstr "NitroPC med Ubuntu"
 
 #~ msgid "Your system will then boot."
 #~ msgstr "Dit system starter derefter op."
-

@@ -9,16 +9,16 @@ msgstr ""
 "Project-Id-Version: Nitrokey Documentation\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-13 22:26+0100\n"
-"PO-Revision-Date: 2022-01-10 14:11+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-09-10 15:59+0000\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Language-Team: Chinese (Simplified Han script) <http://localhost/projects/"
+"nitrokey-documentation/documentation-nitropc/zh_Hans/>\n"
 "Language: zh_CN\n"
-"Language-Team: Chinese (Simplified) "
-"<https://translate.nitrokey.com/projects/nitrokey-documentation"
-"/documentation-nitropc/zh_Hans/>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.7.1\n"
 "Generated-By: Babel 2.12.1\n"
 
 #: ../nitropc/debian/index.rst:2
@@ -115,11 +115,10 @@ msgid ""
 msgstr "将USB驱动器连接到你的NitroPad上并启动它。在头部菜单中选择启动选项-> USB启动。"
 
 #: ../nitropc/os-reinstallation.rst:34
-#, fuzzy
 msgid ""
 "Depending on the operating system you may need to confirm its "
 "reinstallation."
-msgstr "根据操作系统的不同，你可能需要确认其重新安装。"
+msgstr "TEST2 根据操作系统的不同，您可能需要确认重新安装。"
 
 #: ../nitropc/os-reinstallation.rst:37
 msgid "`Sign the boot partition. <system-update.html>`_"
@@ -354,4 +353,3 @@ msgstr "带有Ubuntu的NitroPC"
 
 #~ msgid "Your system will then boot."
 #~ msgstr "然后你的系统将启动。"
-

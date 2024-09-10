@@ -2,7 +2,7 @@
 
 # Load Variables
 source variables.sh
-source environement.sh
+source environment.sh
 
 # git pull
 git pull

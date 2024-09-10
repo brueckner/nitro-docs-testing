@@ -15,11 +15,11 @@ msgstr ""
 "Language-Team: Chinese (Simplified) "
 "<https://translate.nitrokey.com/projects/nitrokey-documentation"
 "/documentation-nitropc/zh_Hans/>\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.12.1\n"
 
 #: ../nitropc/debian/index.rst:2
 msgid "NitroPC with Debian"
@@ -115,8 +115,9 @@ msgid ""
 msgstr "将USB驱动器连接到你的NitroPad上并启动它。在头部菜单中选择启动选项-> USB启动。"
 
 #: ../nitropc/os-reinstallation.rst:34
+#, fuzzy
 msgid ""
-"Depending on the operating system you may need to confirm its "
+"TEST2 Depending on the operating system you may need to confirm its "
 "reinstallation."
 msgstr "根据操作系统的不同，你可能需要确认其重新安装。"
 

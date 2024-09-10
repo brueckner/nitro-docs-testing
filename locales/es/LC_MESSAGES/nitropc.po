@@ -14,11 +14,11 @@ msgstr ""
 "Language: es\n"
 "Language-Team: Spanish <https://translate.nitrokey.com/projects/nitrokey-"
 "documentation/documentation-nitropc/es/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.12.1\n"
 
 #: ../nitropc/debian/index.rst:2
 msgid "NitroPC with Debian"
@@ -133,8 +133,9 @@ msgstr ""
 "seleccione Boot Options -> USB Boot."
 
 #: ../nitropc/os-reinstallation.rst:34
+#, fuzzy
 msgid ""
-"Depending on the operating system you may need to confirm its "
+"TEST2 Depending on the operating system you may need to confirm its "
 "reinstallation."
 msgstr ""
 "Dependiendo del sistema operativo, es posible que tenga que confirmar su "

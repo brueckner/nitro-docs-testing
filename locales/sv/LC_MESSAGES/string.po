@@ -8,17 +8,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nitrokey Documentation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-15 11:51+0200\n"
+"POT-Creation-Date: 2024-09-10 07:47+0000\n"
 "PO-Revision-Date: 2024-08-02 14:51+0000\n"
 "Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language: sv\n"
 "Language-Team: Swedish <https://translate.nitrokey.com/projects/nitrokey-"
 "documentation/documentation-string/sv/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.12.1\n"
 
 #: ../fido2/2fa-nextcloud.rst:2
 msgid ""
@@ -18879,7 +18879,6 @@ msgstr ""
 "Boot Options -> USB Boot."
 
 #: ../nitropad/os-reinstallation.rst.inc:37
-#: ../nitropc/os-reinstallation.rst.inc:38
 msgid ""
 "Depending on the operating system you may need to confirm its "
 "reinstallation."
@@ -19546,6 +19545,13 @@ msgstr "Om du använder en NitroPC med TitanCore:"
 #: ../nitropc/os-reinstallation.rst.inc:36
 msgid "Press ESC to enter the BIOS to select USB Boot."
 msgstr "Tryck på ESC för att komma till BIOS och välj USB Boot."
+
+#: ../nitropc/os-reinstallation.rst.inc:38
+#, fuzzy
+msgid ""
+"TEST Depending on the operating system you may need to confirm its "
+"reinstallation."
+msgstr "Beroende på operativsystemet kan du behöva bekräfta ominstallationen."
 
 #: ../nitropc/os-reinstallation.rst.inc:45
 msgid ""

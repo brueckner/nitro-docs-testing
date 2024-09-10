@@ -117,7 +117,7 @@ msgstr "将USB驱动器连接到你的NitroPad上并启动它。在头部菜单�
 #: ../nitropc/os-reinstallation.rst:34
 #, fuzzy
 msgid ""
-"TEST2 Depending on the operating system you may need to confirm its "
+"Depending on the operating system you may need to confirm its "
 "reinstallation."
 msgstr "根据操作系统的不同，你可能需要确认其重新安装。"
 

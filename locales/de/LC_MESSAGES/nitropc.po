@@ -136,7 +136,7 @@ msgstr ""
 #: ../nitropc/os-reinstallation.rst:34
 #, fuzzy
 msgid ""
-"TEST2 Depending on the operating system you may need to confirm its "
+"Depending on the operating system you may need to confirm its "
 "reinstallation."
 msgstr ""
 "Je nach Betriebssystem müssen Sie eventuell dessen Neuinstallation "

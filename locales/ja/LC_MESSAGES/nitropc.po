@@ -121,7 +121,7 @@ msgstr "USBドライブをNitroPadに接続し、起動します。表メニュ�
 #: ../nitropc/os-reinstallation.rst:34
 #, fuzzy
 msgid ""
-"TEST2 Depending on the operating system you may need to confirm its "
+"Depending on the operating system you may need to confirm its "
 "reinstallation."
 msgstr "OSによっては、再インストールの確認が必要な場合があります。"
 

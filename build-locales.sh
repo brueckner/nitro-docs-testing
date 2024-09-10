@@ -27,3 +27,8 @@ docker run --rm \
         docker.io/nitrokey/sphinx \
         sphinx-intl update -p ./locales/ $sphinx_args 
 
+docker run --rm \
+        -v $(pwd)/locales:/docs/locales \
+        docker.io/nitrokey/sphinx \
+        sphinx-intl build -d ./locales/ $sphinx_args 
+

@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: Nitrokey Documentation\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-13 22:26+0100\n"
-"PO-Revision-Date: 2022-01-11 15:12+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2024-09-10 15:59+0000\n"
+"Last-Translator: DeepL <noreply-mt-deepl@weblate.org>\n"
+"Language-Team: Hungarian <http://localhost/projects/nitrokey-documentation/"
+"documentation-nitropc/hu/>\n"
 "Language: hu\n"
-"Language-Team: Hungarian <https://translate.nitrokey.com/projects"
-"/nitrokey-documentation/documentation-nitropc/hu/>\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.1\n"
 "Generated-By: Babel 2.12.1\n"
 
 #: ../nitropc/debian/index.rst:2
@@ -134,13 +135,12 @@ msgstr ""
 "menüben válassza a Boot Options -> USB Boot menüpontot."
 
 #: ../nitropc/os-reinstallation.rst:34
-#, fuzzy
 msgid ""
 "Depending on the operating system you may need to confirm its "
 "reinstallation."
 msgstr ""
-"Az operációs rendszertől függően szükség lehet az újratelepítés "
-"megerősítésére."
+"TEST2 Az operációs rendszertől függően előfordulhat, hogy meg kell "
+"erősítenie annak újratelepítését."
 
 #: ../nitropc/os-reinstallation.rst:37
 msgid "`Sign the boot partition. <system-update.html>`_"
@@ -457,4 +457,3 @@ msgstr "NitroPC Ubuntuval"
 
 #~ msgid "Your system will then boot."
 #~ msgstr "Ezután a rendszer elindul."
-
